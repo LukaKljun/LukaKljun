@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LukaKljun
 - 🌱 I’m currently a student of Vegova Ljubljana
-- 💞️ I’m looking to collaborate on all kinds of projects
+- 😌 Currently learning intermediate C# 
 - 🟩 I'm willing to learn new stuff
 - 🚀 Vegova shadow team Cansat
 
