@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LukaKljun
+- 👋 Hi, I am @LukaKljun
 - 🌱 I’m currently a student of Vegova Ljubljana
 - 🏫 Currently learning intermediate C# 
 - 🟩 I'm willing to learn new stuff
