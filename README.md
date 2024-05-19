@@ -1,8 +1,8 @@
 - 👋 Hi, I am @LukaKljun
 - 🌱 I’m currently a student of Vegova Ljubljana
-- 🏫 Currently learning intermediate C# 
+- 🏫 Programing with esp32
 - 🟩 I'm willing to learn new stuff
-- 🚀 Vegova shadow team Cansat
+- 🚀 Vegova team Cansat 2024/25
 - 😌 Feel free to contact me about anything.
 <!---
 LukaKljun/LukaKljun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
