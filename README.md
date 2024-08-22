@@ -1,4 +1,4 @@
-##- 👋 Hi, I am @LukaKljun##
+# - 👋 Hi, I am @LukaKljun
 - 🏫 I’m currently a Computer Science student of Vegova Ljubljana
 - 🟧 Working at WiseTechnologies
 - 🌱 Programing with esp32
