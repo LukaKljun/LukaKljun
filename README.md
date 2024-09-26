@@ -1,6 +1,6 @@
 # Hi, I am **@LukaKljun**
 - 🏫 I’m currently a Computer Science student of Vegova Ljubljana
-- 🟧 Working at WiseTechnologies
+- 🟧 Working at WiseTechnologies (Chief developer)
 - 🌱 Programing with esp32
 - 🚀 Vegova team Cansat 2024/25
 - 😌 Feel free to contact me about anything.
